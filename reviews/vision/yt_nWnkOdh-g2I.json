@@ -1,0 +1,16 @@
+{
+  "file": "yt_nWnkOdh-g2I.jpg",
+  "finish_reason": "stop",
+  "review": {
+    "summary": "ピンク髪の少女の頬を、白髪のセーラー服の少女が指でつついている様子が描かれています。",
+    "face_position": "ピンク髪：X約28%・Y約45%、白髪：X約60%・Y約32%",
+    "central_band": "ピンク髪キャラの頬・左手および肩、白髪キャラの胸元とリボン",
+    "overlap": "partial",
+    "fit": 5,
+    "beauty": 8,
+    "vibe": 10,
+    "quality": "網点テクスチャ調ですが元画像に圧縮ノイズやモザイク状の荒れが見られ、拡大時は粗さが目立ちやすいです",
+    "text": "なし",
+    "nsfw": "なし"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "file": "danbooru_8944655.png",
+  "finish_reason": "stop",
+  "review": {
+    "summary": "パステルパープル基調の病み可愛いグリッド背景に、口元に指を添えるツインテールのメイド服の少女が描かれている。",
+    "face_position": "横50%、縦38%（頭頂から顎までは縦10〜50%）",
+    "central_band": "少女の口元、顎、指先、胸元のフリルや襟",
+    "overlap": "face",
+    "fit": 2,
+    "beauty": 9,
+    "vibe": 10,
+    "quality": "線の破綻やノイズが少なく、2560x1440へ拡大しても非常に滑らかで高画質を保てると推測",
+    "text": "左側に薄く「Chinoi」「My Document」、右下に「Subscribe!」、ウィンドウ内に「ERROR」などの小さな装飾文字あり。大きな文字はなし",
+    "nsfw": "なし"
+  }
+}

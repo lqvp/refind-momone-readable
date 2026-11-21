@@ -1,0 +1,6 @@
+__pycache__/
+candidates/
+renders/
+reddit_top.json
+danbooru.json
+*.yomiyasu.md

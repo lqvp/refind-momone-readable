@@ -1,0 +1,16 @@
+{
+  "file": "danbooru_7193040.jpg",
+  "finish_reason": "stop",
+  "review": {
+    "summary": "夜の街角で歩く子供たちとバケツに逆さに突っ込んでいる不思議な人物が描かれたパステル調イラスト。",
+    "face_position": "グレー髪キャラ：X42%・Y43%、ピンク髪キャラ：X78%・Y46%",
+    "central_band": "グレー髪キャラクターの胴体と腕、バケツ、背景の柵",
+    "overlap": "partial",
+    "fit": 5,
+    "beauty": 8,
+    "vibe": 9,
+    "quality": "フラットなベクター調のアートスタイルのため、拡大しても破綻は目立ちにくいと推測",
+    "text": "なし",
+    "nsfw": "なし"
+  }
+}

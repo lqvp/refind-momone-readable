@@ -1,0 +1,16 @@
+{
+  "file": "yt_E0WetI_JmI4.jpg",
+  "finish_reason": "stop",
+  "review": {
+    "summary": "レトロアニメ風のピンク髪の少女が正面を見つめ、周囲に羽や星、青い光のクロスラインが散らばっている様子。",
+    "face_position": "横50%、縦50%付近（画面中央）",
+    "central_band": "少女の目、鼻、口、頬など顔面の中核部分",
+    "overlap": "face",
+    "fit": 1,
+    "beauty": 7,
+    "vibe": 5,
+    "quality": "CRT風の走査線や色収差エフェクトが施されているため、拡大時はジャギーや滲みが強調される可能性があります",
+    "text": "なし",
+    "nsfw": "なし"
+  }
+}

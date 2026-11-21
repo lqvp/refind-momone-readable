@@ -1,0 +1,16 @@
+{
+  "file": "yt_exqZsJzbDV4.jpg",
+  "finish_reason": "stop",
+  "review": {
+    "summary": "パステルパープルの画面枠の中に、犬のポーズをとるファンシーな少女が描かれている。",
+    "face_position": "X: 50%〜62%、Y: 20%〜48%（中心はX: 56%、Y: 35%付近）",
+    "central_band": "キャラクターの顎先、骨型の首輪、丸めた両手、胸元",
+    "overlap": "partial",
+    "fit": 5,
+    "beauty": 9,
+    "vibe": 10,
+    "quality": "くっきりしたアニメ調のため拡大耐性は高めだが、微細なブロックノイズが見られる可能性あり（推測）",
+    "text": "左下に大きく「だめいぬ いんだ だっこ」、上下フレームに「dameinu inda dakko」、左上に「scene 02」、右上に「Level 20」",
+    "nsfw": "なし"
+  }
+}
