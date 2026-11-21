@@ -72,7 +72,7 @@ A1 を `MomoneChinoi-readable` として `/boot` の ESP に適用した。`refi
 - `renders/yt_CPc5SuuOB6k_1280.png`: 推奨候補の再現
 - `renders/danbooru_11901859_1280.png`: 誕生日候補の再現
 - `renders/danbooru_7012068_1280.png`: 風景候補の再現
-- `comparison.png`: 現行と 3 候補の比較シート
+- `final-renders/comparison.jpg`: 現行と 3 候補の比較シート
 - `reviews/vision/`: 各候補の画像審査結果
 - `reviews/final-render-ranking.json`: 最終レンダー比較の結果
 - `base-icons/`: 適用直前に ESP に存在した `/boot/vmlinuz-linux.png`、`/boot/vmlinuz-linux-pf.png`、`themes/MomoneChinoi-hires/icons/os_arch.png` の保存。再現の基準を ESP の変化から分離する。`vmlinuz-linux-lts.png` は適用前には存在しなかった。`base-icons/vmlinuz-linux-lts.png` は適用後のラベル入りアイコンを写したもので、適用前の原版ではない
@@ -96,8 +96,8 @@ A1 を `MomoneChinoi-readable` として `/boot` の ESP に適用した。`refi
 
 推奨はA1である。A2は文字のコントラストが高い一方で白いパネルの主張が強く、A3は絵を多く残せる一方で服の柄とアイコンが重なって見える。
 
-- `comparison-readable.png`: 従来AとA1/A2/A3の比較
-- `comparison-readable-zoom.png`: カーネル名と選択名を拡大した比較
+- `final-renders/comparison-readable.jpg`: 従来AとA1/A2/A3の比較
+- `final-renders/comparison-readable-zoom.jpg`: カーネル名と選択名を拡大した比較
 - `reviews/readable-render-ranking.json`: 改善版の画像比較結果
 - `improved/background.png`: A1のブラーとパネルを合成した背景
 - `improved/theme.conf`: `hideui label` を外した適用候補
